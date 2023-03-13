@@ -1,35 +1,35 @@
 [   
     {
-        "url": "./static/media/4.jpg",
+        "url": "/static/media/4.jpg",
         "title": "Audi ABT RSQ8-R"
     },
    
     {
-        "url": "./static/media/9.jpg",
+        "url": "/static/media/9.jpg",
         "title": "Porsche Mission R"
     },
     {
-        "url": "./static/media/11.jpg",
+        "url": "/static/media/11.jpg",
         "title": "BMW 3.0 CSL"
     },
     {
-        "url": "./static/media/12.jpg",
+        "url": "/static/media/12.jpg",
         "title": "Maybach Mercedes Darkmode"
     },
     {
-        "url": "./static/media/13.jpg",
+        "url": "/static/media/13.jpg",
         "title": "Alfa Romeo Carabo"
     },
     {
-        "url": "./static/media/14.jpg",
+        "url": "/static/media/14.jpg",
         "title": "Audi ABT RS3-R"
     },
     {
-        "url": "./static/media/15.jpg",
+        "url": "/static/media/15.jpg",
         "title": "BMW M2"
     },
     {
-        "url": "./static/media/5.jpg",
+        "url": "/static/media/5.jpg",
         "title": "MINI"
     }
 ]
