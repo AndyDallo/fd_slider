@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'space-grotesk-med';
-    src: url(/SpaceGrotesk-Medium.ttf);
+    src: url(./SpaceGrotesk-Medium.ttf);
 }
 @font-face {
     font-family: 'space-grotesk-reg';
-    src: url(/SpaceGrotesk-Regular.ttf);
+    src: url(./SpaceGrotesk-Regular.ttf);
 }
 * {
     margin: 0;
